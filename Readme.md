@@ -12,3 +12,6 @@ Thanks to:
 * munki for his [macadmin-scripts](https://github.com/munki/macadmin-scripts)
 * timsutton for [brigadier](https://github.com/timsutton/brigadier)
 * wolfmannight for [manOSDownloader_rc](https://www.insanelymac.com/forum/topic/338810-create-legit-copy-of-macos-from-apple-catalog/) off which BuildmacOSInstallApp.command is based
+
+
+参考：https://juejin.cn/post/7123156303391768613
